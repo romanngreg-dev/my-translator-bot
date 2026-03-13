@@ -2,3 +2,4 @@ flask
 pyTelegramBotAPI
 deep-translator
 gunicorn
+langdetect
